@@ -1,0 +1,8 @@
+{
+  "name": "dsh-security-pocs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "DeepSeek Harness V4b dynamic-plugin sandbox escape research: reproduction, capability verification, and the design lineage of the leaked exec.agent.ctx object. Authorized security research only.",
+  "license": "SEE LICENSE IN LICENSE"
+}
